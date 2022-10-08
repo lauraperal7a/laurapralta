@@ -1,4 +1,4 @@
-<h1 align="center">Hi ♥, I'm Laura Peralta</h1>
+<h1 align="center">Hi, I'm Laura Peralta</h1>
 <h3 align="center">Full stack developer (Frontend) and Civil engineer</h3>
 
 
