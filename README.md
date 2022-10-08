@@ -5,6 +5,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapralta&show_icons=true&locale=en&layout=compact" alt="laurapralta" /></p>
 
+### Who Am I
+- 🌱 I’m currently learning React, NextJs, React-qeury
+- 🥇 I majored in Industrial Engineering
+- 🚅 My hometown is Dongtan in Korea
 
 
 
