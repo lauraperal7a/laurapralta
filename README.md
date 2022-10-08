@@ -10,6 +10,7 @@ Full stack developer (Frontend) and Civil engineer
 <a href="https://twitter.com/laurapralta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laurapralta" height="30" width="40" /></a>
 </p>
 
+<h4 align="left">About</h4>
 - Color lover
 - I'm interested in social media marketing
 - I have fun doing UX/UI
