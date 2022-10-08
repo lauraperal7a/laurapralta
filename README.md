@@ -6,9 +6,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapralta&show_icons=true&locale=en&layout=compact" alt="laurapralta" /></p>
 
 
-- 🌱 I’m currently learning React, NextJs, React-qeury
-- 🥇 I majored in Industrial Engineering
-- 🚅 My hometown is Dongtan in Korea
+- Color lover
+- I'm interested in social media marketing
+- I have fun doing UX/UI
+- My hobby is illustration
+
 
 
 
