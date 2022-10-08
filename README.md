@@ -1,7 +1,6 @@
 <h1 align="center">Hi ♥, I'm Laura Peralta</h1>
 <h3 align="center">Full stack developer (Frontend) and Civil engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/laurapralta" target="blank"><img src="https://img.shields.io/twitter/follow/laurapralta?logo=twitter&style=for-the-badge" alt="laurapralta" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
