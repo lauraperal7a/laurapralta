@@ -1,17 +1,13 @@
 <h4 align="left">Hi, I'm Laura Peralta</h4>
 Full stack developer (Frontend) and Civil engineer
-
-
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapralta&show_icons=true&locale=en&layout=compact" alt="laurapralta" /></p>
-
 
 - Color lover
 - I'm interested in social media marketing
 - I have fun doing UX/UI
 - My hobby is illustration
-
-
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
