@@ -5,7 +5,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapralta&show_icons=true&locale=en&layout=compact" alt="laurapralta" /></p>
 
-<span> <h3 align="left">I love:</h3> <h4 align="left">color</h4> <h4 align="left">social media marketing</h4> <h4 align="left">illustration</h4> <h4 align="left">Pets</h4> </span>
+
 
 
 <h3 align="left">Connect with me:</h3>
