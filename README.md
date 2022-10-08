@@ -1,5 +1,5 @@
 <h3 align="left">Hi, I'm Laura Peralta</h3>
-<h4 align="left">Full stack developer (Frontend) and Civil engineer</h4>
+<h3 align="left">Full stack developer (Frontend) and Civil engineer</h3>
 
 
 
