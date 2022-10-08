@@ -11,6 +11,7 @@ Full stack developer (Frontend) and Civil engineer
 </p>
 
 <h4 align="left">About</h4>
+
 - Color lover
 - I'm interested in social media marketing
 - I have fun doing UX/UI
