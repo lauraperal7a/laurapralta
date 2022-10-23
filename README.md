@@ -12,10 +12,10 @@ Full stack developer (Frontend) and Civil engineer
 
 <h4 align="left">About</h4>
 
-- Color lover
-- I'm interested in social media marketing
-- I have fun doing UX/UI
-- My hobby is illustration
+- ♥ Color 
+- ♥ Social media marketing
+- ♥ UX/UI
+- ♥ Illustration
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapralta&show_icons=true&locale=en&layout=compact" alt="laurapralta" /></p>
 
