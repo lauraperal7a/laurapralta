@@ -15,6 +15,7 @@ Full stack developer (Frontend) and Civil engineer
 ♡ Color 
 ♡ Social media marketing
 ♡ Illustration
+♡ Code
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurapralta&show_icons=true&locale=en&layout=compact" alt="laurapralta" /></p>
 
