@@ -10,7 +10,7 @@ Full stack developer (FE) and Civil engineer
 <a href="https://twitter.com/laurapralta" target="blank"><img align="center" src="https://i.postimg.cc/XNr2DWdr/gorjeo.png" alt="laurapralta" height="30" width="30" /></a>
 </p>
 
-<h4 align="left">About</h4>
+<h4 align="left">I love:</h4>
 
 ♡ Color 
 ♡ Social media marketing
