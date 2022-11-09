@@ -1,5 +1,5 @@
 <h4 align="left">Hi, I'm Laura Peralta</h4>
-Full stack developer (FE) and Civil engineer
+Full stack developer and Civil engineer
 <br>
 
 <h4 align="left">Connect with me:</h4>
